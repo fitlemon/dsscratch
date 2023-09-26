@@ -214,4 +214,4 @@ def mean(xs: List[float]) -> float:
 
 mean(num_friends)
 # 7.333333
-print(mean(num_friends))
+
